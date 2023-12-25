@@ -1,2 +1,11 @@
-// Comments explain whys and hows of code
-console.log("Hello World");
+let surname = "Doe";
+console.log(surname);
+
+// Variable name cannot be a reserved keyword
+// Should be meaningful
+// Cannot start with a number (1name)
+// Cannot contain a space or hyphen (-)
+// Are case-sensitive
+
+let firstName = "John";
+let lastName = "Smith";
