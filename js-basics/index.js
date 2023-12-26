@@ -15,3 +15,14 @@ interestRate = 1;
 console.log(interestRate);
 
 const interestRate2 = 0.3;
+
+// Primitive/Value Types
+// String, Number, Boolean, undefined, null
+
+let name = "Akira"; // String Literal
+let age = 20; // Number Literal
+let isApproved = false; // Boolean Literal
+let firstName2 = undefined;
+
+let selectedColor = null;
+selectedColor = "red";
