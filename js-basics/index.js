@@ -25,4 +25,11 @@ let isApproved = false; // Boolean Literal
 let firstName2 = undefined;
 
 let selectedColor = null;
-selectedColor = "red";
+//selectedColor = "red";
+
+console.log(typeof name);
+console.log(typeof age);
+console.log(typeof isApproved);
+
+console.log(typeof firstName2);
+console.log(typeof selectedColor);
