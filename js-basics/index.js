@@ -15,10 +15,10 @@ selectedColors[3] = 1;
 console.log(selectedColors.length);
 
 // Function
-function greet(name) {
-  console.log("Hello " + name);
+function greet(name, sisterName) {
+  console.log("Hello " + name + " and " + sisterName);
 }
-greet("C17");
+greet("C17", "C18");
 
 let greet2 = (name) => console.log("Hello " + name);
-greet2("C18");
+greet2("C16");
