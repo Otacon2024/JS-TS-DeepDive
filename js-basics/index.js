@@ -1,3 +1,4 @@
+// Object
 let person = {
   name: "Akira",
   age: 20,
@@ -10,5 +11,10 @@ person.name = "Mary";
 let selection = "name";
 person[selection] = "John";
 
-console.log(person);
-console.log(person.name);
+// Array
+let selectedColors = ["red", "blue"];
+selectedColors[2] = "green";
+selectedColors[3] = 1;
+
+console.log(selectedColors);
+console.log(selectedColors.length);
