@@ -22,17 +22,11 @@ console.log(x--); // 11 (because it display the value of x before decrementing)
 */
 
 // Assignment operators
-
+/*
 let x = 9;
-
 x++;
-x = x + 1;
-
-x = x + 5;
 x += 5;
-
-x = x * 3;
 x *= 3;
-
 x /= 3;
 x -= 3;
+*/
