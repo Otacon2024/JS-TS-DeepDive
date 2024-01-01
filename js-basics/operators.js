@@ -3,9 +3,18 @@
 let x = 10;
 let y = 3;
 
-console.log(x + y);
-console.log(x - y);
-console.log(x * y);
-console.log(x / y);
-console.log(x % y); // Remainder of division
-console.log(x ** y); // Exponentiation
+// console.log(x + y);
+// console.log(x - y);
+// console.log(x * y);
+// console.log(x / y);
+// console.log(x % y); // Remainder of division
+// console.log(x ** y); // Exponentiation
+
+// Increment (++)
+console.log(x); // 10
+console.log(++x); // 11
+
+console.log(x++); // 11 (because it display the value of x before incrementing)
+console.log(x); // 12
+
+// Decrement (--)
