@@ -13,8 +13,9 @@ let y = 3;
 // Increment (++)
 console.log(x); // 10
 console.log(++x); // 11
-
 console.log(x++); // 11 (because it display the value of x before incrementing)
 console.log(x); // 12
 
 // Decrement (--)
+console.log(--x); // 11
+console.log(x--); // 11 (because it display the value of x before decrementing)
